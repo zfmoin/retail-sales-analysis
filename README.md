@@ -4,7 +4,8 @@
 This project analyzes retail sales data to uncover trends in **sales performance, price optimization, and product popularity**. It includes **exploratory data analysis (EDA), statistical insights, and predictive modeling** to better understand how pricing and seasonal patterns impact sales.
 
 ## 🔍 Dataset
-- **Source:** [Mention where you got it if public, or state that it's private]
+- **Source:** [Online Retail Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
+- **Description:** Contains transactions from an online UK-based retail company from **2010–2011**.
 - **Columns:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country.
 
 ## 🚀 Key Insights
@@ -26,4 +27,8 @@ This analysis provides actionable insights for businesses to optimize pricing st
 ## 📂 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/retail-sales-analysis.git
+   git clone https://github.com/zfmoin/retail-sales-analysis.git
+   
+2. Download & extract the ZIP file containing the dataset before running the notebook.
+
+3. Open the Jupyter Notebook file and execute the analysis.
